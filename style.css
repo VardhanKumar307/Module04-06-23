@@ -1,0 +1,29 @@
+#search-form {
+    margin-bottom: 20px;
+  }
+  
+  #current-image-container {
+    margin-bottom: 20px;
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #current-image-container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  #search-history {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #search-history li {
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+  
+  
